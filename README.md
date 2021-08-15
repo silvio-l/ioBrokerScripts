@@ -1,5 +1,7 @@
 # ioBrokerScripts
-ioBroker Scripts
+
+Hier sammle und teile ich meine Smart Home Scripts für den ioBroker.
+Bei Fragen dazu, gern fragen.
 
 | Dateiname | Beschreibung |
 | --- | --- |
