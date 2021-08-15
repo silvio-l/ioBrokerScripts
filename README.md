@@ -5,5 +5,5 @@ Bei Fragen dazu, gern fragen.
 
 | Dateiname | Beschreibung |
 | --- | --- |
-| [washer-remeinder.js](https://github.com/silvio-l/ioBrokerScripts/blob/main/washer-reminder.js) | Sendet Pushover-Benachrichtigung wenn der Durchschnitt aus dem Stromverbrauch der letzten 3 Messungen über bzw. unter einem bestimmten Wert liegt |
+| [washer-remeinder.js](https://github.com/silvio-l/ioBrokerScripts/blob/main/washer-reminder.js) | Sendet Pushover-Benachrichtigung wenn der Durchschnitt aus dem Stromverbrauch der letzten 3 Messungen über bzw. unter einem bestimmten Wert liegt.\ Benötigt wird eine smarte Steckdose mit Tasmota z.B. die Gosund SP111 oder diese hier [Nous A1](https://amzn.to/3skoqqX) |
 
